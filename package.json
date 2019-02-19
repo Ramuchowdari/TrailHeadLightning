@@ -1,8 +1,8 @@
 {
-  "name": "bfo-lwc",
-  "private": true,
+  "name": "lwc-starter-kit",
+  "private": false,
   "version": "1.0.0",
-  "description": "bFO starter kit to accelerate development of lightning webcomponents",
+  "description": "Starter kit to accelerate development of lightning webcomponents inspired from trailheadapps",
   "scripts": {
     "lint": "npm run lint:lwc && npm run lint:aura",
     "lint:lwc": "eslint **/lwc/**",
